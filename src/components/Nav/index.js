@@ -14,7 +14,7 @@ function Nav(props) {
     <header className="flex-row px-1">
       <h2>
         <a data-testid="link" href="/">
-          Set your goals and achieve them!
+          Set your Financial goals and achieve them!
         </a>
       </h2>
       <nav>
