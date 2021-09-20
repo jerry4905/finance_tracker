@@ -7,6 +7,7 @@ function Goal(props) {
     <section>
       <h1 data-testid="h1tag">{capitalizeFirstLetter(currentCategory.name)}</h1>
       <p>{currentCategory.description}</p>
+      <p>Based on entered infromation you shoud reach your goal by:</p>
 
     </section>
   );
